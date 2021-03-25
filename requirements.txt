@@ -1,3 +1,4 @@
 great-expectations>=0.13.0
 kglab>=0.2.0
 pandas>=0.23.0
+edtf_validate>=1.1.0
